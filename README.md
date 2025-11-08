@@ -1,2 +1,7 @@
 # bimi-logo
 Logo for BIMI implementation
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="200" height="200">
+<circle cx="100" cy="100" r="90" fill="#003366" />
+<text x="100" y="115" font-size="32" text-anchor="middle" fill="#ffffff" font-family="Arial">AYO</text>
+<text x="100" y="150" font-size="16" text-anchor="middle" fill="#ffffff" font-family="Arial">Environmental</text>
+</svg>
